@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">YourTrainer</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="specialtiesSpinner">
+        <item>-Specialties-</item>
+        <item>Weight Loss</item>
+        <item>Strength  Training</item>
+        <item>Cardio</item>
+        <item>Body Building</item>
+        <item>Boxing</item>
+    </string-array>
+    <string-array name="genderSpinner">
+        <item>-Gender-</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="locationSpinner">
+        <item>-Location-</item>
+        <item>Georgetown, Pulau Pinang</item>
+        <item>Sungai Petani, Kedah </item>
+        <item>Shah Alam, Selangor</item>
+        <item>Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</item>
+        <item>Arau, Perlis</item>
+    </string-array>
+    <string name="specialties"><u>Specialties</u></string>
+    <string name="qualification"><u>Qualification</u></string>
+
+</resources>
